@@ -1,1 +1,1 @@
-# danilanekrasov.github.io
+# danilanekrasov.com
