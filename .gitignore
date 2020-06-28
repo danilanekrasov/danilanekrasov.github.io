@@ -77,3 +77,7 @@ fabric.properties
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
+/.jekyll-metadata
+/_site/
+/.idea/danilanekrasov.github.io.iml
+/.idea/inspectionProfiles/Project_Default.xml
