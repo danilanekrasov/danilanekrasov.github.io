@@ -81,3 +81,4 @@ fabric.properties
 /_site/
 /.idea/danilanekrasov.github.io.iml
 /.idea/inspectionProfiles/Project_Default.xml
+/.sass-cache/
